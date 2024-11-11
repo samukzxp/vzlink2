@@ -1,5 +1,7 @@
 
-        function grupo() {
-        window.location.href = "vz";
-        }
+        [
+    {
+        "link": "vz"
+    }
+]
     
