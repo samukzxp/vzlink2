@@ -1,5 +1,5 @@
-[
-    {
-        "link": "https://instagram.com"
-    }
-]
+
+        function grupo() {
+        window.location.href = "vz";
+        }
+    
